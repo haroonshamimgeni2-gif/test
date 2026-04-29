@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488371983901",
+    "project_id": "one-line-snake",
+    "storage_bucket": "one-line-snake.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488371983901:android:3f7345bcb52f1552ed98f4",
+        "android_client_info": {
+          "package_name": "com.genigames.snake.line.fill.puzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxhQe37Wyshxibgk5NfGc3aSrpD21LmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
