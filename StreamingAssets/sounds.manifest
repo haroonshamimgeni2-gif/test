@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.59f2
+CRC: 1707524333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65a605f64c7b4ac2d7e2e855697437d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c8b44ea8de14bbb5613e5aa0a68e6678
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 17de4094b027c1dae501804cabd9d26d
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82675b3062f83eb47931218be3093899, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art data/Prefeb/Sounds SO_forCarpet bacup.asset
+Dependencies: []
