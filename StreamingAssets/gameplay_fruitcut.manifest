@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.59f2
-CRC: 829183995
+CRC: 2324890779
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43582cc0dabbd13f67857544c64df1ef
+    Hash: ae01de07766eed2019c6a3eba07a2154
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 684604e03b0800587695b91874f7a5c1
+    Hash: fb17543d77f20decf1ba6844b9e3c4f3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f3dcc9059cb09b5c7e87a2caae0202e7
+    Hash: 7959cbf13851f571e05d16ab552e5dee
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,8 +82,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 1488bee7925fe433fbddf989c50ad4ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
@@ -95,8 +93,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: c97afc556caea1c44969477eb7ddec74, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: adefe18d2f40dd84c8666cc766d5de82, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2fd4e215a0e273e4694d7bdeace6aa6f, type: 3}
 - Class: 114
@@ -156,11 +152,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 8141caaed485fcb42ba5978d6eb82a7a, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 4d2892602f454c64a9957eea0e694de3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b0ca8e9f27d01a9468960254ab2f6071, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8141caaed485fcb42ba5978d6eb82a7a, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
