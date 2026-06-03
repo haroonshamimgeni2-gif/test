@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 976693391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20688942707d15e7ebfe2c890835850b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b320eb3ab3183102db6d48a71898ab42
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 20688942707d15e7ebfe2c890835850b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 111d28e95e311644c98eb66b427e9c5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: AYellowpaper.SerializedCollections
+  ClassName: AYellowpaper.SerializedCollections.SerializedDictionary`2[System.String,UnityEngine.AudioClip]
+Assets:
+- Assets/Game/Settings/Prefabs/SoundManager 1.prefab
+Dependencies: []
