@@ -1,7 +1,54 @@
 ManifestFileVersion: 0
-CRC: 3477753266
+UnityVersion: 6000.0.59f2
+CRC: 2121415994
+HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: soundmanager
+      Name: gameplay_nailart
+      Dependencies: {}
+    Info_1:
+      Name: gameplay_vegetablecutter
+      Dependencies: {}
+    Info_2:
+      Name: gameplay_wallpaint
+      Dependencies: {}
+    Info_3:
+      Name: gameplay_stickerscut
+      Dependencies: {}
+    Info_4:
+      Name: gameplay_baseball
+      Dependencies: {}
+    Info_5:
+      Name: gameplay_planetscutting
+      Dependencies: {}
+    Info_6:
+      Name: gameplay_carclean
+      Dependencies: {}
+    Info_7:
+      Name: gameplay_carpetcleaning
+      Dependencies: {}
+    Info_8:
+      Name: gameplay_brickbreak
+      Dependencies: {}
+    Info_9:
+      Name: gameplay_mirrorclean
+      Dependencies: {}
+    Info_10:
+      Name: sounds
+      Dependencies: {}
+    Info_11:
+      Name: gameplay_plushieclean
+      Dependencies: {}
+    Info_12:
+      Name: gameplay_droppytower
+      Dependencies: {}
+    Info_13:
+      Name: gameplay_fancleaning
+      Dependencies: {}
+    Info_14:
+      Name: gameplay_soapcut
+      Dependencies: {}
+    Info_15:
+      Name: gameplay_fruitcut
       Dependencies: {}
