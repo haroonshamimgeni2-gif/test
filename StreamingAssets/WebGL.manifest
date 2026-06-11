@@ -1,54 +1,54 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.59f2
-CRC: 2452906845
+CRC: 82477479
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: gameplay_nailart
+      Name: gameplay_carclean
       Dependencies: {}
     Info_1:
-      Name: gameplay_vegetablecutter
+      Name: gameplay_mirrorclean
       Dependencies: {}
     Info_2:
-      Name: gameplay_wallpaint
+      Name: gameplay_nailart
       Dependencies: {}
     Info_3:
-      Name: gameplay_stickerscut
+      Name: gameplay_droppytower
       Dependencies: {}
     Info_4:
       Name: gameplay_baseball
       Dependencies: {}
     Info_5:
-      Name: gameplay_planetscutting
+      Name: gameplay_wallpaint
       Dependencies: {}
     Info_6:
-      Name: gameplay_carclean
-      Dependencies: {}
-    Info_7:
       Name: gameplay_carpetcleaning
       Dependencies: {}
+    Info_7:
+      Name: gameplay_plushieclean
+      Dependencies: {}
     Info_8:
-      Name: gameplay_brickbreak
+      Name: gameplay_soapcut
       Dependencies: {}
     Info_9:
-      Name: gameplay_mirrorclean
+      Name: gameplay_planetscutting
       Dependencies: {}
     Info_10:
       Name: sounds
       Dependencies: {}
     Info_11:
-      Name: gameplay_plushieclean
+      Name: gameplay_fruitcut
       Dependencies: {}
     Info_12:
-      Name: gameplay_droppytower
+      Name: gameplay_brickbreak
       Dependencies: {}
     Info_13:
-      Name: gameplay_fancleaning
+      Name: gameplay_vegetablecutter
       Dependencies: {}
     Info_14:
-      Name: gameplay_soapcut
+      Name: gameplay_stickerscut
       Dependencies: {}
     Info_15:
-      Name: gameplay_fruitcut
+      Name: gameplay_fancleaning
       Dependencies: {}
