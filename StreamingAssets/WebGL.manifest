@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3477753266
+CRC: 3253969511
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: animators
+      Dependencies: {}
+    Info_1:
       Name: soundmanager
       Dependencies: {}
