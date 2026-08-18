@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "11243153272",
-    "project_id": "word-choice--a-love-story",
-    "storage_bucket": "word-choice--a-love-story.appspot.com"
+    "project_number": "654321363070",
+    "project_id": "seat-it-right-logic-puzzle",
+    "storage_bucket": "seat-it-right-logic-puzzle.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:11243153272:android:7cbfe228f256d3bda70a8d",
+        "mobilesdk_app_id": "1:654321363070:android:da7996f09e1c267554502f",
         "android_client_info": {
-          "package_name": "com.word.trick.puzzle.game"
+          "package_name": "com.genigames.my.seat.logic.puzzle"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "11243153272-amljimfc54ojdlbvo8iaojqq7tuvso4f.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCNF8M86zzMHga9Xbn4Z2Li6cdPZ02Ygks"
+          "current_key": "AIzaSyAVxXSOybMHAscgc8HtrotXG3_GMOUGNq4"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "11243153272-amljimfc54ojdlbvo8iaojqq7tuvso4f.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
