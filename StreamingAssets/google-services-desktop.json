@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425542386164",
+    "project_id": "kitty-cat-dash",
+    "storage_bucket": "kitty-cat-dash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425542386164:android:3ccdcb65cc2d41ae4639a1",
+        "android_client_info": {
+          "package_name": "com.genigames.kitty.cat.dash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjh9N_0QMYSYZdSLVNNV3PspBuoQjfqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
